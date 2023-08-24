@@ -11,8 +11,8 @@ a path (if exists) that leads you from TBE to SU such that when you arrive at th
 unit of stamina left that gives you energy to buy a passion fruit ice tea at Starbucks.
 
 Credits:
-Shoutout to my professor, Dr. James Andro Vasko, for creating this fun project. I enjoyed creating the main file that gives you a simulation of getting from the TBE to the SU within one unit of stamina(if possible). This program was designed to use adjacency lists, hashmaps, and a Depth First Search type of traversal.
+Shoutout to my professor, Dr. James Andro Vasko, for assigning this fun project. I enjoyed creating the main file that gives you a simulation of getting from the TBE to the SU within one unit of stamina(if possible). This program was designed to use adjacency lists, hashmaps, and a Depth First Search type of traversal.
 
 How to:
-You run the program with the main file using linux file redirection. In the terminal you use, "main.out < <input#>.txt"
+You run the program with the main file using linux file redirection. In the terminal you use, "./a.out < <input#>.txt"
 Note that the input text files are numbered from 1-6 so change the "#" to the corresponding input you want to use.
